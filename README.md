@@ -12,3 +12,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+[twitter]:https://twitter.com/navarasp
+[linkedin]:https://www.linkedin.com/in/navaras-p-26560720b/
+[instagram]:https://www.instagram.com/navu_2307/
+[discord]:https://discordapp.com/users/728447035648245780

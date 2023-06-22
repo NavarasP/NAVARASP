@@ -1,14 +1,14 @@
 Hi 👋 My name is Navaras P
 ==========================
 
-Web devoloper and Designer
+Fullstack Developer
 --------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Profile](http://navarasp.com)
 * ✉️  You can contact me at [navarasparayil@gmail.com](mailto:navarasparayil@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on interesting porjects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 

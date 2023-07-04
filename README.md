@@ -14,7 +14,6 @@
 - **Frameworks**: Django, React
 - **Mobile Development**: Flutter
 - **Database**: PostgreSQL, MySQL
-- **Version Control**: Git
 - **UI/UX Design Tools**: Figma
 - **Deployment**: Heroku
 

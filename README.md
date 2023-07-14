@@ -16,8 +16,8 @@
 - **Frameworks**: Django, React
 - **Mobile Development**: Flutter
 - **Database**: PostgreSQL, MySQL
-- **UI/UX Design Tools**: Figma
-- **Deployment**: Heroku
+- **UI/UX Design Tools**: CSS, TailwindCSS 
+- **Deployment**: Heroku, vercel, cpanel
 
 ### Portfolio
 

@@ -23,6 +23,20 @@
 
 Check out my portfolio: [navarasp.bio](https://navarasp.bio)
 
+## Repo Overview
+
+### [Project Name 1](Link to Project Repository)
+
+[Short description of Project 1]
+
+### [Project Name 2](Link to Project Repository)
+
+[Short description of Project 2]
+
+### [Project Name 3](Link to Project Repository)
+
+[Short description of Project 3]
+
 ### Contact
 
 You can reach me at [navarasparayil@gmail.com](mailto:navarasparayil@gmail.com)

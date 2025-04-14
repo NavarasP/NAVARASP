@@ -21,7 +21,7 @@
 
 ### Portfolio
 
-Check out my portfolio: [navarasp.bio](https://navarasp.bio)
+Check out my portfolio: [navarasp.bio](https://navarasp.vercel.app)
 
 
 ### Contact

@@ -2,7 +2,7 @@
 
 ## Full-Stack AI Developer | Open-Source Enthusiast  
 
-💻 I’m a **software developer and AI/ML researcher** passionate about building intelligent, data-driven systems that solve real-world problems.  
+💻 I’m a **software developer and AI/ML student** passionate about building intelligent, data-driven systems that solve real-world problems.  
 My experience spans **computer vision, NLP, reinforcement learning**, and **AI-powered web applications**.
 
 🎯 I specialize in **deep learning, model optimization, and intelligent automation**, combining backend development with AI workflows using **Python, TensorFlow, and Django**.  
